@@ -1,7 +1,6 @@
 #   Diabetes Management System
 
-
-< This project has one index.html landing page and one style.css file that styles the outlook of the html file.> 
+This project has one index.html landing page and one style.css file that styles the outlook of the html file. The project also has an images folder that holds the background image for the webdesign.
 
 **REQUIREMENTS**
 ## Project Setup
